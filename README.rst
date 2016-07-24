@@ -7,6 +7,8 @@ on photo paper.
 The idea is to reduce the price tag of identity pictures, that can cost up to
 €1 per photograph when made in dedicated photobooths.
 
+.. image:: https://i.imgur.com/eOKFJwq.png
+   :width: 100%
 
 Building
 --------
